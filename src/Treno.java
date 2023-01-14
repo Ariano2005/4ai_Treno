@@ -8,7 +8,7 @@
  * <LI>vagoni massimi
  * <UL>
  * @author Ariano Venneri
- * versione 1
+ todificaom  versione 1 
  */
 public class Treno {
 	/**
